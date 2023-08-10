@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "StudyAbroad",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev ./",
+    "build": "vuepress build ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoizupas/Test.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "zoizupas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoizupas/Test/issues"
+  },
+  "homepage": "https://github.com/zoizupas/Test#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
